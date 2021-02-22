@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name CD4060BE)(type Legacy)(uri ${KIPRJMOD}/CD4060BE.lib)(options "")(descr ""))
+  (lib (name HDSP-433G)(type Legacy)(uri ${KIPRJMOD}/HDSP-433G.lib)(options "")(descr ""))
+  (lib (name FYT-3631)(type Legacy)(uri ${KIPRJMOD}/FYT-3631.lib)(options "")(descr ""))
+)

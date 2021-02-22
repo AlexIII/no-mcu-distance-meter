@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FYT-3631)(type KiCad)(uri ${KIPRJMOD}/FYT-3631.pretty)(options "")(descr ""))
+  (lib (name SK-12F14)(type KiCad)(uri ${KIPRJMOD}/SK-12F14.pretty)(options "")(descr ""))
+)
