@@ -18,6 +18,10 @@ The schematic employs just three standard logic ICs (8-bit counter, divider/osci
 
 ![](photo/dm-pcb-3.jpg)
 
+## Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/FPoeiAQJhnc/0.jpg)](https://www.youtube.com/watch?v=FPoeiAQJhnc)
+
 ## Project files
 
 - `no-mcu-distance-meter-kicad5-prj/`  - KiCAD 5.1 project with the schematic and PCB design
